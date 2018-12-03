@@ -4,6 +4,14 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+  @font-face{
+              font-family: elegante;
+
+              /*Caso a fonte esteja na mesma pasta*/
+              src: url("../fonts/elegante.ttf");
+          }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
